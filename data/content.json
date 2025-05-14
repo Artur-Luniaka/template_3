@@ -1,51 +1,51 @@
 {
   "global": {
-    ".logo a": "RED BALL CHRISTMAS",
+    ".logo a": "DONKEY KONG RUN",
     ".domain-name a": "DOMAIN.COM",
     ".footer-logo a": "DOMAIN.COM",
     ".footer-contact": {
-      "html": "<p>Email: <a href=\"mailto:contact@domain.com\">contact@domain.com</a></p><p>Phone: <a href=\"tel:+61293744000\">+61 2 9374 4000</a></p><p>Address: 48 Liverpool St, Sydney NSW 2000, Australia</p>"
+      "html": "<p>Email: <a href=\"mailto:contact@domain.com\">contact@domain.com</a></p><p>Phone: <a href=\"tel:+61412345678\">+61 412 345 678</a></p><p>Address: 123 Pitt Street, Sydney, NSW 2000, Australia</p>"
     },
     ".footer-bottom p": "&copy; 2025 Domain.com All rights reserved."
   },
   "pages": {
     "index.html": {
-      "title": "Red Ball Christmas Love Game - Roll Through Holiday Adventure",
-      "description": "Play Red Ball Christmas Love Game - a festive adventure where you roll, jump and solve puzzles in a winter wonderland. Perfect holiday fun for all ages!",
+      "title": "Donkey Kong Run Game - Jungle Adventure",
+      "description": "Play Donkey Kong Run - a thrilling jungle adventure where you swing, jump, and collect bananas while avoiding obstacles. Perfect fun for all ages!",
       "content": {
-        ".game-title": "Red Ball Christmas Love Game",
-        ".game-subtitle": "Roll Through a Winter Wonderland.",
-        ".game-tagline": "Jump. Roll. Solve. Love.",
-        ".game-description": "Join Red Ball on a festive adventure through snowy landscapes and Christmas-themed puzzles. Navigate icy platforms, collect presents, and spread holiday cheer in this charming winter adventure."
+        ".game-title": "Donkey Kong Run Game",
+        ".game-subtitle": "Swing Through the Jungle.",
+        ".game-tagline": "Jump. Swing. Collect. Adventure.",
+        ".game-description": "Join Donkey Kong in this action-packed jungle adventure! Swing from vine to vine, dodge dangerous obstacles, and collect as many bananas as possible while avoiding the dangers of the jungle."
       }
     },
     "how-to-play.html": {
-      "title": "How to Play - Red Ball Christmas Love Game",
-      "description": "Learn how to play Red Ball Christmas Love Game with our comprehensive guide. Master controls, discover tips and tricks, and conquer all levels.",
+      "title": "How to Play - Donkey Kong Run Game",
+      "description": "Learn how to play Donkey Kong Run with our comprehensive guide. Master the controls, discover tips, and conquer the jungle levels.",
       "content": {
         ".page-header h1": "How to Play",
-        ".page-header p": "Master the controls and conquer all levels in Red Ball Christmas Love Game"
+        ".page-header p": "Master the controls and conquer the jungle levels in Donkey Kong Run"
       }
     },
     "news.html": {
-      "title": "News - Red Ball Christmas Love Game",
-      "description": "Latest news and updates about Red Ball Christmas Love Game - stay informed about new features, events, and game improvements.",
+      "title": "News - Donkey Kong Run Game",
+      "description": "Latest news and updates about Donkey Kong Run - stay informed about new features, events, and game improvements.",
       "content": {
         ".page-header h1": "Latest News",
-        ".page-header p": "Stay updated with the latest developments and announcements for Red Ball Christmas Love Game"
+        ".page-header p": "Stay updated with the latest developments and announcements for Donkey Kong Run Game"
       }
     },
     "contacts.html": {
-      "title": "Contact Us - Red Ball Christmas Love Game",
-      "description": "Contact the Red Ball Christmas Love Game team for support, feedback, or business inquiries. We're here to help!",
+      "title": "Contact Us - Donkey Kong Run Game",
+      "description": "Contact the Donkey Kong Run team for support, feedback, or business inquiries. We're here to help!",
       "content": {
         ".page-header h1": "Contact Us",
         ".page-header p": "Have questions or feedback? We'd love to hear from you!"
       }
     },
     "disclaimer.html": {
-      "title": "Disclaimer - Red Ball Christmas Love Game",
-      "description": "Legal disclaimer and terms of use for Red Ball Christmas Love Game website and game content.",
+      "title": "Disclaimer - Donkey Kong Run Game",
+      "description": "Legal disclaimer and terms of use for Donkey Kong Run Game website and game content.",
       "content": {
         ".page-header h1": "Disclaimer",
         ".page-header p": "Legal information and terms of use"
