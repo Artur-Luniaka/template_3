@@ -69,7 +69,7 @@
       "title": "New Year's Countdown Challenge",
       "date": "2025-12-26",
       "excerpt": "Ring in the New Year with our special countdown challenge. Complete daily missions from December 26th to January 1st for amazing rewards!",
-      "image": "images/news-9.jpg",
+      "image": "images/feature-1.png",
       "category": "Events"
     },
     {
@@ -77,7 +77,7 @@
       "title": "Community Q&A: Your Questions Answered",
       "date": "2025-12-28",
       "excerpt": "We've compiled answers to the most frequently asked questions from our community. Check out this comprehensive guide!",
-      "image": "images/news-10.jpg",
+      "image": "images/feature-2.png",
       "category": "Community"
     },
     {
@@ -85,7 +85,7 @@
       "title": "Upcoming Feature: Custom Character Skins",
       "date": "2025-12-30",
       "excerpt": "Get ready to personalize your monkey with custom skins! Coming in our January update with over 20 designs to choose from.",
-      "image": "images/news-11.jpg",
+      "image": "images/feature-3.png",
       "category": "Updates"
     },
     {
@@ -93,7 +93,7 @@
       "title": "2026 Roadmap: What's Coming Next",
       "date": "2025-12-31",
       "excerpt": "Take a peek at our plans for 2026! New levels, features, events, and much more coming to Jungle Adventure Game.",
-      "image": "images/news-12.jpg",
+      "image": "images/feature-4.png",
       "category": "Updates"
     }
   ]
