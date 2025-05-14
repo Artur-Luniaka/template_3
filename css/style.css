@@ -6,20 +6,20 @@
 }
 
 :root {
-  --primary-color: #e63946;
-  --secondary-color: #1d3557;
-  --accent-color: #4caf50;
-  --light-color: #f1faee;
-  --dark-color: #1d3557;
-  --gray-color: #a8dadc;
-  --christmas-red: #c1121f;
-  --christmas-green: #0a8754;
-  --christmas-gold: #ffd700;
-  --text-color: #333;
-  --background-color: #fff;
+  --primary-color: #8b4513;
+  --secondary-color: #228b22;
+  --accent-color: #ffd700;
+  --light-color: #fdf5e6;
+  --dark-color: #2f1b0c;
+  --gray-color: #b0a99f;
+  --christmas-red: #8b0000;
+  --christmas-green: #006400;
+  --christmas-gold: #daa520;
+  --text-color: #2e2e2e;
+  --background-color: #fff8dc;
   --border-radius: 8px;
   --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  --transition: all 0.3s ease;
+  --transition: all 0.5s ease-out;
 }
 
 body {
@@ -167,6 +167,7 @@ nav {
 .hero-content {
   display: flex;
   align-items: center;
+  flex-direction: row-reverse;
   gap: 40px;
 }
 
@@ -185,7 +186,8 @@ nav {
 
 .game-title {
   font-size: 3rem;
-  color: var(--christmas-red);
+  color: var(--primary-color);
+  text-align: center;
   margin-bottom: 15px;
 }
 
