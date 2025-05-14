@@ -2,7 +2,6 @@
   "global": {
     ".logo a": "DONKEY KONG RUN",
     ".domain-name a": "DOMAIN.COM",
-    ".footer-logo a": "DOMAIN.COM",
     ".footer-contact": {
       "html": "<p>Email: <a href=\"mailto:contact@domain.com\">contact@domain.com</a></p><p>Phone: <a href=\"tel:+61412345678\">+61 412 345 678</a></p><p>Address: 123 Pitt Street, Sydney, NSW 2000, Australia</p>"
     },
