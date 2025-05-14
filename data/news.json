@@ -1,0 +1,100 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Red Ball Christmas Love Game Launches Today!",
+      "date": "2025-12-01",
+      "excerpt": "Experience the holiday magic with our brand new Red Ball Christmas Love Game. Roll, jump, and solve puzzles in a winter wonderland!",
+      "image": "images/news-1.jpg",
+      "category": "Updates"
+    },
+    {
+      "id": 2,
+      "title": "New Winter Wonderland Level Pack Released",
+      "date": "2025-12-05",
+      "excerpt": "Explore five new challenging levels in our Winter Wonderland pack. Navigate through icy caves, snowy mountains, and festive villages!",
+      "image": "images/news-2.jpg",
+      "category": "Updates"
+    },
+    {
+      "id": 3,
+      "title": "Holiday Tournament Announced - Win Exclusive Prizes!",
+      "date": "2025-12-10",
+      "excerpt": "Join our first-ever Holiday Tournament starting December 15th. Complete challenges, climb the leaderboard, and win exclusive in-game items!",
+      "image": "images/news-3.jpg",
+      "category": "Events"
+    },
+    {
+      "id": 4,
+      "title": "Meet the Developers: Behind the Scenes",
+      "date": "2025-12-12",
+      "excerpt": "Get to know the creative minds behind Red Ball Christmas Love Game. Learn about our development process and future plans!",
+      "image": "images/news-4.jpg",
+      "category": "Community"
+    },
+    {
+      "id": 5,
+      "title": "Performance Update: Smoother Gameplay on All Devices",
+      "date": "2025-12-15",
+      "excerpt": "We've optimized the game engine for better performance across all devices. Enjoy smoother gameplay and faster loading times!",
+      "image": "images/news-5.jpg",
+      "category": "Updates"
+    },
+    {
+      "id": 6,
+      "title": "Community Spotlight: Amazing Fan Art",
+      "date": "2025-12-18",
+      "excerpt": "Check out these incredible fan creations from our talented community members. Share your own art for a chance to be featured!",
+      "image": "images/news-6.jpg",
+      "category": "Community"
+    },
+    {
+      "id": 7,
+      "title": "Christmas Eve Special Event: Santa's Workshop",
+      "date": "2025-12-20",
+      "excerpt": "Join us on Christmas Eve for a special in-game event. Help Santa prepare gifts and earn exclusive holiday-themed rewards!",
+      "image": "images/news-7.jpg",
+      "category": "Events"
+    },
+    {
+      "id": 8,
+      "title": "Mobile Version Now Available on iOS and Android",
+      "date": "2025-12-22",
+      "excerpt": "Take Red Ball Christmas Love Game with you wherever you go! Download now from the App Store or Google Play Store.",
+      "image": "images/news-8.jpg",
+      "category": "Updates"
+    },
+    {
+      "id": 9,
+      "title": "New Year's Countdown Challenge",
+      "date": "2025-12-26",
+      "excerpt": "Ring in the New Year with our special countdown challenge. Complete daily missions from December 26th to January 1st for amazing rewards!",
+      "image": "images/news-9.jpg",
+      "category": "Events"
+    },
+    {
+      "id": 10,
+      "title": "Community Q&A: Your Questions Answered",
+      "date": "2025-12-28",
+      "excerpt": "We've compiled answers to the most frequently asked questions from our community. Check out this comprehensive guide!",
+      "image": "images/news-10.jpg",
+      "category": "Community"
+    },
+    {
+      "id": 11,
+      "title": "Upcoming Feature: Custom Character Skins",
+      "date": "2025-12-30",
+      "excerpt": "Get ready to personalize your Red Ball with custom skins! Coming in our January update with over 20 designs to choose from.",
+      "image": "images/news-11.jpg",
+      "category": "Updates"
+    },
+    {
+      "id": 12,
+      "title": "2026 Roadmap: What's Coming Next",
+      "date": "2025-12-31",
+      "excerpt": "Take a peek at our plans for 2026! New levels, features, events, and much more coming to Red Ball Christmas Love Game.",
+      "image": "images/news-12.jpg",
+      "category": "Updates"
+    }
+  ]
+}
