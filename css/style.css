@@ -177,7 +177,7 @@ nav {
 
 .hero-image {
   width: 560px;
-  height: 350px;
+  height: 380px;
   object-fit: cover;
   object-position: center;
   border-radius: var(--border-radius);
@@ -578,11 +578,14 @@ footer {
 /* Contact Page Styles */
 
 .contact-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
   gap: 40px;
-  direction: rtl;
-  text-align: left;
+
+  @media (max-width: 768px) {
+    flex-direction: column-reverse;
+  }
 }
 
 .contact-info {
@@ -606,6 +609,7 @@ footer {
 }
 
 .contact-form-container {
+  flex-grow: 1;
   background-color: white;
   padding: 30px;
   border-radius: var(--border-radius);
