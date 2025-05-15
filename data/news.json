@@ -2,57 +2,57 @@
   "news": [
     {
       "id": 1,
-      "title": "Jungle Adventure Game Launches Today!",
+      "title": "Chinese Food – Chef Dudu Launches Today!",
       "date": "2025-12-01",
-      "excerpt": "Join our exciting new Jungle Adventure Game! Swing through the jungle, avoid dangers, and discover hidden treasures.",
+      "excerpt": "Become Chef Dudu! Cook delicious Chinese dishes, serve customers, and manage your restaurant.",
       "image": "images/news-1.jpg",
       "category": "Updates"
     },
     {
       "id": 2,
-      "title": "New Jungle Ruins Level Pack Released",
+      "title": "New Recipes Added to the Game",
       "date": "2025-12-05",
-      "excerpt": "Explore five new levels in the Jungle Ruins pack. Navigate ancient temples, dodge vine snakes, and find secret treasures!",
+      "excerpt": "Test your cooking skills with new traditional and modern Chinese recipes.",
       "image": "images/news-2.jpg",
       "category": "Updates"
     },
     {
       "id": 3,
-      "title": "Holiday Tournament Announced - Win Exclusive Prizes!",
+      "title": "Chef Competition Announced: Win Exclusive Prizes!",
       "date": "2025-12-10",
-      "excerpt": "Join our first-ever Holiday Jungle Tournament! Complete challenges, climb the leaderboard, and win exclusive prizes like monkey costumes!",
+      "excerpt": "Join the chef competition, cook fast and well to climb the leaderboard and win exclusive rewards!",
       "image": "images/news-3.jpg",
       "category": "Events"
     },
     {
       "id": 4,
-      "title": "Meet the Developers: Behind the Scenes",
+      "title": "Meet the Chef Dudu Dev Team",
       "date": "2025-12-12",
-      "excerpt": "Get to know the creative minds behind Jungle Adventure Game. Learn about our development process and what’s coming next.",
+      "excerpt": "Get to know the creators behind the game and learn about our future plans.",
       "image": "images/news-4.jpg",
       "category": "Community"
     },
     {
       "id": 5,
-      "title": "Performance Update: Smoother Gameplay on All Devices",
+      "title": "Performance Update: Smoother Gameplay",
       "date": "2025-12-15",
-      "excerpt": "We've optimized the game for better performance across all devices. Enjoy smoother gameplay as you swing through the jungle!",
+      "excerpt": "Optimized game performance for all devices — enjoy cooking without delays!",
       "image": "images/news-5.jpg",
       "category": "Updates"
     },
     {
       "id": 6,
-      "title": "Community Spotlight: Amazing Fan Art",
+      "title": "Community Spotlight: Amazing Fan Creations",
       "date": "2025-12-18",
-      "excerpt": "Check out these incredible fan creations from our talented community members. Share your own art and get a chance to be featured!",
+      "excerpt": "Check out incredible fan art and share your creations for a chance to be featured!",
       "image": "images/news-6.jpg",
       "category": "Community"
     },
     {
       "id": 7,
-      "title": "Christmas Eve Special Event: Jungle Celebration",
+      "title": "Holiday Event: Chef Dudu’s Festive Banquet",
       "date": "2025-12-20",
-      "excerpt": "Join us on Christmas Eve for a special in-game event. Help the monkeys decorate the jungle and earn exclusive holiday-themed rewards!",
+      "excerpt": "Join the holiday event, prepare special dishes, and earn unique seasonal rewards!",
       "image": "images/news-7.jpg",
       "category": "Events"
     },
@@ -60,15 +60,15 @@
       "id": 8,
       "title": "Mobile Version Now Available on iOS and Android",
       "date": "2025-12-22",
-      "excerpt": "Take Jungle Adventure Game with you wherever you go! Download now from the App Store or Google Play Store.",
+      "excerpt": "Take your favorite Chinese food game anywhere! Download now on App Store or Google Play.",
       "image": "images/news-8.jpg",
       "category": "Updates"
     },
     {
       "id": 9,
-      "title": "New Year's Countdown Challenge",
+      "title": "Winter Cooking Challenge",
       "date": "2025-12-26",
-      "excerpt": "Ring in the New Year with our special countdown challenge. Complete daily missions from December 26th to January 1st for amazing rewards!",
+      "excerpt": "Join the winter challenge: complete daily tasks and earn amazing prizes!",
       "image": "images/feature-1.png",
       "category": "Events"
     },
@@ -76,23 +76,23 @@
       "id": 10,
       "title": "Community Q&A: Your Questions Answered",
       "date": "2025-12-28",
-      "excerpt": "We've compiled answers to the most frequently asked questions from our community. Check out this comprehensive guide!",
+      "excerpt": "Answers to the most frequently asked questions about game mechanics and updates.",
       "image": "images/feature-2.png",
       "category": "Community"
     },
     {
       "id": 11,
-      "title": "Upcoming Feature: Custom Character Skins",
+      "title": "Coming Soon: New Chef Dudu Skins",
       "date": "2025-12-30",
-      "excerpt": "Get ready to personalize your monkey with custom skins! Coming in our January update with over 20 designs to choose from.",
+      "excerpt": "Customize your chef with stylish new skins coming in the January update.",
       "image": "images/feature-3.png",
       "category": "Updates"
     },
     {
       "id": 12,
-      "title": "2026 Roadmap: What's Coming Next",
+      "title": "2026 Roadmap: What’s Next",
       "date": "2025-12-31",
-      "excerpt": "Take a peek at our plans for 2026! New levels, features, events, and much more coming to Jungle Adventure Game.",
+      "excerpt": "New levels, events, and features — check out our plans for the upcoming year.",
       "image": "images/feature-4.png",
       "category": "Updates"
     }
