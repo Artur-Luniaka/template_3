@@ -8,7 +8,7 @@
     ".footer-bottom p": "&copy; 2025 Domain.com All rights reserved."
   },
   "pages": {
-    "index.html": {
+    "./": {
       "title": "Chinese Food - Chef Dudu Game | Cook & Serve",
       "description": "Play Chinese Food - Chef Dudu and become a master chef! Cook delicious Chinese dishes, serve customers, and manage your time in this fun cooking game.",
       "content": {
